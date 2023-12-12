@@ -18,10 +18,3 @@ function aTestCase() {
 function anotherTestCase() {
     // Some Test code
 }
-
-/*TC**********************
- * @name        aForthTestcase
- *************************/
-function aForthTestcase() {
-    // Some Test code
-}
